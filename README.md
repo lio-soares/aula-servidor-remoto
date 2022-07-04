@@ -1,3 +1,3 @@
 # aula-servidor-remoto
 
-Repositório da aula de Git
+Repositório da aula de Git.
